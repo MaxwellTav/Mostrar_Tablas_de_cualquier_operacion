@@ -1,0 +1,10 @@
+C:\Users\maxwe\source\repos\Mostrar tablas de cualquier operacion\bin\Debug\Mostrar tablas de cualquier operacion.exe.config
+C:\Users\maxwe\source\repos\Mostrar tablas de cualquier operacion\bin\Debug\Mostrar tablas de cualquier operacion.exe
+C:\Users\maxwe\source\repos\Mostrar tablas de cualquier operacion\bin\Debug\Mostrar tablas de cualquier operacion.pdb
+C:\Users\maxwe\source\repos\Mostrar tablas de cualquier operacion\obj\Debug\Mostrar tablas de cualquier operacion.csprojAssemblyReference.cache
+C:\Users\maxwe\source\repos\Mostrar tablas de cualquier operacion\obj\Debug\Mostrar_tablas_de_cualquier_operacion.Form1.resources
+C:\Users\maxwe\source\repos\Mostrar tablas de cualquier operacion\obj\Debug\Mostrar_tablas_de_cualquier_operacion.Properties.Resources.resources
+C:\Users\maxwe\source\repos\Mostrar tablas de cualquier operacion\obj\Debug\Mostrar tablas de cualquier operacion.csproj.GenerateResource.cache
+C:\Users\maxwe\source\repos\Mostrar tablas de cualquier operacion\obj\Debug\Mostrar tablas de cualquier operacion.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\source\repos\Mostrar tablas de cualquier operacion\obj\Debug\Mostrar tablas de cualquier operacion.exe
+C:\Users\maxwe\source\repos\Mostrar tablas de cualquier operacion\obj\Debug\Mostrar tablas de cualquier operacion.pdb
